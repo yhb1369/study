@@ -14,8 +14,7 @@ public class day04 {
 //	     System.out.println(a+b);
 	     
 	     String phone_number=sc.next();
-	     phone(phone_number);
-	     System.out.println(phone_number);
+	     System.out.println(phone(phone_number));
 	}
 	
 	//핸드폰 번호 뒤에 4자리 빼고 가리기
